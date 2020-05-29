@@ -7,3 +7,6 @@ mtcars
 
 head(mtcars) 
 #my branch wants to look at the data.
+
+#this is Mary's work- I like the iris dataset
+head(iris)
